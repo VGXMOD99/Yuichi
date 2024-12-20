@@ -1,4 +1,4 @@
-local validKey = "Yuichi-vip1"
+local validKey = "Yuichi"
 
 function validateKey(userKey)
     return userKey == validKey
